@@ -1,6 +1,6 @@
 # Reverse Shell Payload for Flipper Zero
 
-Este repositorio contiene una **payload** para Flipper Zero que inicia una **reverse shell** en PowerShell de forma oculta, ideal para pruebas en entornos controlados.
+Este repositorio contiene un **payload** para Flipper Zero que inicia una **reverse shell** en PowerShell de forma oculta, ideal para pruebas en entornos controlados.
 
 ---
 
