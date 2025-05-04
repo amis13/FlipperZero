@@ -1,6 +1,6 @@
-# Reverse Shell Payload for Flipper Zero
+# Reverse Shell Payload for badUSB Flipper Zero
 
-Este repositorio contiene un **payload** para Flipper Zero que inicia una **reverse shell** en PowerShell de forma oculta, ideal para pruebas en entornos controlados.
+Este repositorio contiene un **payload** para la app badUSB en Flipper Zero que inicia una **reverse shell** en PowerShell de forma oculta, ideal para pruebas en entornos controlados.
 
 ---
 
